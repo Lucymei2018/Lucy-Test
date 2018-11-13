@@ -3,7 +3,7 @@
     Private Sub bntVersion1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles bntVersion1.Click
         Try
             
-            msgbox ("This is version 11")
+            msgbox ("This is version 111")
             
             Dim frm As New FormVersion1()
             Me.AddOwnedForm(frm)
