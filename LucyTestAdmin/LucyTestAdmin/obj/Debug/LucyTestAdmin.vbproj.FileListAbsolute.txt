@@ -1,0 +1,10 @@
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\bin\Debug\LucyTestAdmin.exe
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\bin\Debug\LucyTestAdmin.pdb
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\bin\Debug\LucyTestAdmin.xml
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\LucyTestAdmin.FormStart.resources
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\LucyTestAdmin.Resources.resources
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\LucyTestAdmin.vbproj.GenerateResource.Cache
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\LucyTestAdmin.exe
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\LucyTestAdmin.xml
+C:\Users\kenny\Documents\GitHub\Test Project\LucyTestAdmin\LucyTestAdmin\obj\Debug\LucyTestAdmin.pdb
